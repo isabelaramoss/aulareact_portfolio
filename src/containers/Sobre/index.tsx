@@ -2,7 +2,7 @@ import Title from '../../components/Title'
 
 const Sobre = () => (
   <section>
-    <Title>Sobre mim</Title>
+    <Title fontSize={16}>Sobre mim</Title>
     <p>
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus
       repellat enim culpa magnam voluptatum! Quos vitae voluptates, aut velit
