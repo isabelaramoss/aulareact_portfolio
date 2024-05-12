@@ -6,8 +6,8 @@ export const Descricao = styled(P)`
   margin-bottom: 40px;
 `
 export const BotaoTema = styled.button`
-  color: #eee;
-  background-color: #282a35;
+  color: ${(props) => props.theme.corDeFundo};
+  background-color: ${(props) => props.theme.corPrincipal};
   border-radius: 12px;
   border: none;
   padding: 8px;

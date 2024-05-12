@@ -3,7 +3,7 @@ import Projetos from './containers/Projetos'
 import Sidebar from './containers/Sidebar'
 import Sobre from './containers/Sobre'
 import EstiloGlobal, { Container } from './styles'
-import temaLight from './themes/ligth'
+import temaLight from './themes/light'
 
 function App() {
   return (
