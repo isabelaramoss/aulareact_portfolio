@@ -1,46 +1,37 @@
-# Getting Started with Create React App
+# Descrição do conteúdo do módulo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Durante este módulo, nós:
+- entendemos como o CSS in JS é usado para estilizar componentes em uma aplicação React;
+- aplicamos CSS in JS com Styled-components;
+- dominamos a configuração de estilos dinâmicos com base nos estados dos componentes React;
+- conhecemos o create react app;
+- configuramos as ferramentas ESLint e Prettier para garantir a padronização do código;
+- configuramos regras personalizadas e a automação de tarefas de formatação para melhorar a produtividade no desenvolvimento com React;
+- usamos o inspetor de elementos para inspecionar a estrutura de componentes em um projeto React;
+- instalamos o Styled Components;
+- criamos e estilizamos componentes utilizando o Styled Components;
+- aplicamos herança de estilos e reutilização de estilos em componentes React usando o Styled Components;
+- conceituamos Atomic Design e entendemos como ele se aplica ao desenvolvimento de componentes em um projeto React;
+- aplicamos o Atomic Design na criação de componentes em um projeto React;
+- identificamos os elementos atômicos (componentes pequenos e reutilizáveis), criamos moléculas combinando átomos e construimos organismos maiores a partir dessas;
+- compreendemos a importância da flexibilidade na estrutura de um projeto React;
+- criamos a estrutura inicial de um projeto React;
+- organizamos pastas e criamos componentes como barra lateral, seção principal e seção de projetos;
+- criamos componentes reutilizáveis como o título que pode aceitar propriedades para personalização;
+- aplicamos estilos e layout usando CSS-in-JS em um projeto React;
+- criamos componentes reutilizáveis para texto, como títulos e parágrafos;
+- usamos propriedades opcionais em componentes React para fornecer valores padrão quando não são especificados.
+- aplicamos estilos de texto usando CSS-in-JS em um projeto React;
+- integramos imagens em componentes React;
+- aplicamos estilos responsivos a elementos HTML em uma aplicação React;
+- fizemos ajustes no layout da página, como o tamanho do contêiner, margens e espaçamentos entre elementos;
+- criamos o componente "Projeto", que pode ser reutilizado em diferentes partes da aplicação;
+- definimos propriedades e estrutura do componente para torná-lo flexível e fácil de manter;
+- estilizamos componentes de forma responsiva usando CSS in JS;
+- assimilamos boas práticas de organização de estilos em projetos React, como manter os estilos relacionados a um componente em um arquivo separado;
+- criamos componentes React personalizados como um avatar;
+- aplicamos estilos a componentes React usando CSS in JS;
+- desenvolvemos componentes React para criar uma barra lateral completa com diferentes elementos;
+- criamos temas personalizados para uma aplicação React, permitindo a troca de estilos de forma dinâmica;
+- integramos temas personalizados nos componentes da aplicação;
+- implementamos a alternância de temas na aplicação, permitindo que os usuários escolham entre diferentes estilos visuais.
